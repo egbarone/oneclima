@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.egbarone.oneclima"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,6 +32,12 @@
         "projectId": "28f315d9-cc65-47fb-bc2b-144931d8e0a6"
       }
     },
-    "owner": "egbarone"
+    "owner": "egbarone",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/28f315d9-cc65-47fb-bc2b-144931d8e0a6"
+    }
   }
 }
